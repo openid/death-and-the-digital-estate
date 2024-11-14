@@ -2,9 +2,7 @@
 
 Welcome to the Death and the Digital Estate (DADE) GitHub repo.  
 
-Please file issues and pull requests against the [charter](https://github.com/openid/death-and-the-digital-estate/blob/main/charter.md).  
-
-Have resources to share?  Please file a PR to place them [resources list](https://github.com/openid/death-and-the-digital-estate/blob/main/resources.md).
+Have resources to share?  Please file a PR to place them [resources list](https://github.com/openid/death-and-the-digital-estate/blob/main/resources.md).  We'll put together a wiki page for resources in the future.
 
 [DADE Mailing List](https://lists.openid.net/mailman/listinfo/openid-digital-directives)
 
