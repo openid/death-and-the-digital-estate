@@ -9,7 +9,7 @@
 
 * _country which the account is configured in_
 
-**Dependencies:**
+**Account Type:**
 
 * _Personal account, joint account, business account, etc._
 
