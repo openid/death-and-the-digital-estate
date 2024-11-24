@@ -5,9 +5,9 @@
 * _service name_
 * _URL_
 
-**Account Country**
+**Account Country / Countries**
 
-* _country which the account is configured in_
+* _Countries which the account is configured in.  Add additional information if required._
 
 **Account Type:**
 
