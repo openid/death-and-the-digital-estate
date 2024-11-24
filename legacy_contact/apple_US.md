@@ -2,7 +2,7 @@
 * Apple
 * https://www.apple.com
 
-**Account Country**
+**Account Country / Countries**
 * United States of America
 
 **Account Type:**
