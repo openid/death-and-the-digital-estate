@@ -18,6 +18,12 @@ https://kantara.atlassian.net/wiki/spaces/uma/pages/4849814/UMA+legal+subgroup+n
 
 https://datatracker.ietf.org/doc/html/rfc8693 (for on-behalf-of semantics)
 
+https://www-smbc-co-jp.translate.goog/kojin/digital-safetybox/service/ (Japanese bank service that allows users to store digital data for disclosure to specified relatives after the owner has deceased.)
+
+Digital end of life planning from the Japanese National Consumer Affairs Center [Register Article](https://www.theregister.com/2024/11/21/japan_digital_end_of_life/), [Original Source}(https://www.kokusen.go.jp/news/data/n-20241120_1.html)
+
+
+
 **Legal Approaches / Pieces** (formal legal articles from journals, mainly)
 
 - [Minors and Digital Asset Succession](https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2022-10/Minors%20and%20Digital%20Asset%20Succession.pdf)
