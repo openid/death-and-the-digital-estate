@@ -6,6 +6,6 @@ Have resources to share?  Please file a PR to place them [resources list](https:
 
 [DADE Mailing List](https://lists.openid.net/mailman/listinfo/openid-digital-directives)
 
-Meeting Schedule: Currently alternating Fridays at 15:00 UTC. See the [OIDF Calendar](https://openid.net/calendar/) for more information.
+Meeting Schedule: Alternating every other week on Wednesdays at 23:00 GMT and Fridays at 15:00 GMT starting January 8, 2025. See the [OIDF Calendar](https://openid.net/calendar/) for more information.
 
-Slack: #DADE channels on both OpenID Foundation Slack and [IDPro](https://idpro.org) Slack
+Slack: #DADE channels on both [OpenID Foundation](https://openid.net/) Slack and [IDPro](https://idpro.org) Slack
