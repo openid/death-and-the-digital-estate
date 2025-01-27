@@ -1,30 +1,35 @@
-**Resources for DADE**
+# **Resources for DADE**
 
 Please add resources and reference material links below.  At the moment, these are in no clear order.
 
-[Kaliya Young's Talk about Digital Death Day](https://vimeo.com/42481807)
+### Talks About Relevant Topics
+
+- [Kaliya Young's Talk about Digital Death Day](https://vimeo.com/42481807)
 
 
-[The Good Death Preso from Summer of Protocols](https://www.youtube.com/watch?v=8sbGALYWcrA)
+- [The Good Death Preso from Summer of Protocols](https://www.youtube.com/watch?v=8sbGALYWcrA)
+
+### Standards Related
+
+- https://kantara.atlassian.net/wiki/spaces/uma/pages/4849814/UMA+legal+subgroup+notes (and items linked therein)
+
+- https://datatracker.ietf.org/doc/html/rfc8693 (for on-behalf-of semantics)
+
+### General Articles
+
+- [List of services related to death](https://www.thedigitalbeyond.com/online-services-list/)
+
+- https://sovrin.org/a-deeper-understanding-of-implementing-guardianship/ (and items linked therein)
+
+- https://www-smbc-co-jp.translate.goog/kojin/digital-safetybox/service/ (Japanese bank service that allows users to store digital data for disclosure to specified relatives after the owner has deceased.)
+
+- Digital end of life planning from the Japanese National Consumer Affairs Center [Register Article](https://www.theregister.com/2024/11/21/japan_digital_end_of_life/), [Original Source](https://www.kokusen.go.jp/news/data/n-20241120_1.html)
 
 
-[List of services related to death](https://www.thedigitalbeyond.com/online-services-list/)
 
-https://sovrin.org/a-deeper-understanding-of-implementing-guardianship/ (and items linked therein)
+### **Legal Approaches / Pieces** (formal legal articles from journals, mainly)
 
-https://trustandwill.com/learn/what-is-rufadaa
-
-https://kantara.atlassian.net/wiki/spaces/uma/pages/4849814/UMA+legal+subgroup+notes (and items linked therein)
-
-https://datatracker.ietf.org/doc/html/rfc8693 (for on-behalf-of semantics)
-
-https://www-smbc-co-jp.translate.goog/kojin/digital-safetybox/service/ (Japanese bank service that allows users to store digital data for disclosure to specified relatives after the owner has deceased.)
-
-Digital end of life planning from the Japanese National Consumer Affairs Center [Register Article](https://www.theregister.com/2024/11/21/japan_digital_end_of_life/), [Original Source](https://www.kokusen.go.jp/news/data/n-20241120_1.html)
-
-
-
-**Legal Approaches / Pieces** (formal legal articles from journals, mainly)
+- https://trustandwill.com/learn/what-is-rufadaa
 
 - [Minors and Digital Asset Succession](https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2022-10/Minors%20and%20Digital%20Asset%20Succession.pdf)
 
