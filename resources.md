@@ -40,4 +40,34 @@ Please add resources and reference material links below.  At the moment, these a
 - [The Social Afterlife](https://jolt.law.harvard.edu/assets/articlePDFs/v33/33HarvJLTech329.pdf)
 
 
-
+### Tools/Applications
+#### [finaldocx.ca](https://finaldocx.ca/)
+A service offered by funeral homes (and others) to help loved ones cleanup the digital footprint and other identity related information.  
+The service helps send information to the following reducing the need for death certificates and separate forms/requests:
+* Notification to Old Age Security Program
+* Notification to Service Canada
+* Canada Revenue Agency
+* HST/GST recalculation
+* Canada Pension Plan Death Benefit
+* Canada Pension Plan Survivor's Benefit
+* Equifax (Credit Reporting Agency)
+* Cancellation of Provincial Health Card
+* Cancellation of Provincial Driver's License
+* Cancellation of Provincial Photo I.D. card
+* Notification to Social Insurance Program
+* Transfer rewards cards
+* Provincial Outdoors Card
+* Blue Cross
+* Cancel or transfer utilities
+** Hydro
+** Telephone
+** Cable
+** Gas
+* Cancel Mobile Phone
+* Cancel Credit Cards
+** Visa
+** Mastercard
+** Amex
+** Credit Union
+** Retail Cards
+* Nexus Travel Card
